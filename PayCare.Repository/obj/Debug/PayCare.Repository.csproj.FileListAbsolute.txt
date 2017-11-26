@@ -1,0 +1,16 @@
+C:\Repos\PayCare\PayCare.Repository\bin\Debug\PayCare.Repository.dll
+C:\Repos\PayCare\PayCare.Repository\bin\Debug\PayCare.Repository.pdb
+C:\Repos\PayCare\PayCare.Repository\obj\Debug\ResolveAssemblyReference.cache
+C:\Repos\PayCare\PayCare.Repository\obj\Debug\PayCare.Repository.dll
+C:\Repos\PayCare\PayCare.Repository\obj\Debug\PayCare.Repository.pdb
+D:\Repos\PayCare\PayCare.Repository\obj\Debug\ResolveAssemblyReference.cache
+D:\Repos\PayCare\PayCare.Repository\obj\Debug\PayCare.Repository.dll
+D:\Repos\PayCare\PayCare.Repository\obj\Debug\PayCare.Repository.pdb
+D:\Repos\PayCare\PayCare.Repository\bin\Debug\PayCare.Repository.dll
+D:\Repos\PayCare\PayCare.Repository\bin\Debug\PayCare.Repository.pdb
+D:\Repos\PayCare\PayCare.Repository\bin\Debug\EntityMap.dll
+D:\Repos\PayCare\PayCare.Repository\bin\Debug\PayCare.Model.dll
+D:\Repos\PayCare\PayCare.Repository\bin\Debug\PayCare.Model.pdb
+C:\Repos\PayCare\PayCare.Repository\bin\Debug\EntityMap.dll
+C:\Repos\PayCare\PayCare.Repository\bin\Debug\PayCare.Model.dll
+C:\Repos\PayCare\PayCare.Repository\bin\Debug\PayCare.Model.pdb

@@ -1,0 +1,10 @@
+C:\Repos\PayCare\PayCare.Model\bin\Debug\PayCare.Model.dll
+C:\Repos\PayCare\PayCare.Model\bin\Debug\PayCare.Model.pdb
+C:\Repos\PayCare\PayCare.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Repos\PayCare\PayCare.Model\obj\Debug\PayCare.Model.dll
+C:\Repos\PayCare\PayCare.Model\obj\Debug\PayCare.Model.pdb
+D:\Repos\PayCare\PayCare.Model\bin\Debug\PayCare.Model.dll
+D:\Repos\PayCare\PayCare.Model\bin\Debug\PayCare.Model.pdb
+D:\Repos\PayCare\PayCare.Model\obj\Debug\ResolveAssemblyReference.cache
+D:\Repos\PayCare\PayCare.Model\obj\Debug\PayCare.Model.dll
+D:\Repos\PayCare\PayCare.Model\obj\Debug\PayCare.Model.pdb
